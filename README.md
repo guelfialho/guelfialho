@@ -1,5 +1,5 @@
 <img align="right" height="450" src="https://raw.githubusercontent.com/gist/guelfialho/a7f79c5ba6f8c31c2e36ab3a96b789be/raw/a6c45a9bed5cfb9e86ef13a79dca4542f0775895/gitcardguelfialho.svg"/>
-<h1 align="left"> Hi there!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Miguel Fialho </h1>
+<h1 align="left"> Hi there! I'm Miguel Fialho </h1>
 
 - 🔥 Junior Web Developer & FullStack Student at Senai Cimatec.
 
